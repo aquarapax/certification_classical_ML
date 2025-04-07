@@ -1,0 +1,8 @@
+__pycache__/
+catboost_info/
+input_data/dz.pdf
+data/dz.pdf
+attestat.ipynb
+best_catboost_model.cbm
+data_att2.ipynb
+part3.ipynb
